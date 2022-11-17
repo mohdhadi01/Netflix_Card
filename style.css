@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    
+    
+}
+header{
+  background-color: darkgrey;
+    
+}
+.box{
+    
+    /* border: 10px solid rgb(70,78,89); */
+    position: relative;
+    left: 32em;
+    top: 7em;
+    display: flex;
+    width: 454px;
+    height: 650px;
+    background-color: #393b41;
+    box-shadow:  0 14px 18px 5px  #393b41;
+    
+    
+}
+img{
+    border-bottom: 3px solid rgb(77, 76, 76) ;
+    position: relative;
+    
+    top: -33.14em;
+    
+    
+   
+    width: 439px;
+    
+}
+.img1{
+   
+    
+    position: relative;
+    left: 520.2px
+
+}
+
+
+.det{
+    position: relative;
+    left: 1em;
+    top: 18.3em;
+    
+}
+h2{
+    color: aliceblue;
+    font-family: garamond ;
+}
+.date{
+    
+    color: rgb(137, 140, 140);
+}
+h3{
+    padding-right: 30px;
+    text-align: justify;
+    color: rgb(209, 209, 209);
+    font-weight: 100;
+
+}
+.netflix{
+    border: hidden;
+    position: relative;
+    left: -2px;
+    top: 8px;
+    width:30px;
+}
+h4{
+    font-weight: 0;
+    color: rgb(231, 231, 214);
+}
+.SUBS{
+    border: 6px solid red;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    position: relative;
+    left: 110px;
+    top: 0px;
+    width: 200px;
+    height: 35px;  
+    box-shadow: 0 1px 0px 0px rgb(203, 29, 29); 
+
+}
+a:link{
+    color: white;
+    text-decoration: none;
+}
+a:visited{
+    color: white;
+    text-decoration: none;
+    
+}
+a:hover{
+    color: rgb(240, 124, 124);
+    text-decoration: none;
+}
+a:active{
+    color: white;
+    text-decoration: none;
+}
+a:focus{
+    color: white;
+}
+
+
+
+
