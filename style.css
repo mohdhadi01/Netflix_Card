@@ -108,6 +108,23 @@ a:active{
 a:focus{
     color: white;
 }
+@media (orientation: portrait) {
+    header{
+        width: 574px;
+
+
+   /* width: 1000px; */
+} 
+    .box{
+        position: relative;
+        left: 60px;
+    }   
+    .img1{
+        position: relative;
+        left: 68px; 
+    }
+  }
+
 
 
 
